@@ -34,7 +34,7 @@ Use meaningful class names for content purpose, not style.
 
 **Before & After Example**
 
-Non-semantic HTML:
+Non semantic HTML:
 
 `<div class="header">My Work</div>`
 `<div class="nav">...</div>`
@@ -53,7 +53,7 @@ Semantic HTML:
 `</main>`
 `<footer>My Work</footer>`
 
-Real-World Use Cases
+Real World Use Cases
 
 Structuring articles, blogs, or news pages.
 
