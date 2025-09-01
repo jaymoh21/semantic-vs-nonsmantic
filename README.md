@@ -5,10 +5,11 @@ Learn how to write Semantic HTML that is accessible, SEO friendly, and easy to m
 **Introduction**
 
 Semantic HTML uses meaningful tags to indicate the purpose of content on a webpage instead of generic `<div>` or `<span>` elements. 
-This improves:
-SEO: Helps search engines understand your content, improving rankings.
-Accessibility: Screen readers can navigate content more effectively.
-Code readability: Makes your code organized and easier to maintain.
+This improves
+
+SEO Helps search engines understand your content, improving rankings.
+Accessibility Screen readers can navigate content more effectively.
+Code readability Makes your code organized and easier to maintain.
 
 **Key Semantic Elements**
 
@@ -16,14 +17,15 @@ Structural: `<header>`, `<nav>`, `<main>`, `<footer>`
 Content: `<article>`, `<section>`, `<aside>`, `<figure>`, `<figcaption>`, `<time>`, `<address>`
 
 **Benefits for Search Engines**
+
 Crawling & Indexing: Semantic tags help search engines identify the main content.
-Content hierarchy: `<h1><h6>` tags define structure.
+Content hierarchy `<h1><h6>` tags define structure.
 Contextual relevance: Tags provide meaning, improving SERP visibility.
 
 **Accessibility Support**
 
 Screen readers: Understand page structure better.
-Navigation: `<nav>`, `<header>`, and `<footer>` act as landmarks.
+Navigation `<nav>`, `<header>`, and `<footer>` act as landmarks.
 Content organization: `<section>`, `<article>`, `<aside>` improve comprehension.
 
 **Best Practices**
